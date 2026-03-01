@@ -4,6 +4,7 @@
   "package": "pl.olafcio.call_fixer.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "LanguageMixin"
   ],
   "client": [
   ],
